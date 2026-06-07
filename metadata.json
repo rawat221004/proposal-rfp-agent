@@ -1,0 +1,6 @@
+{
+  "name": "Proposal & RFP Agent",
+  "description": "Enterprise organizational memory agent powered by Hindsight to draft high-converting personalized sales bid proposals based on historical outcomes and client preferences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

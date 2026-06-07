@@ -4,6 +4,16 @@ An intelligent sales bidding and proposal generation platform designed for sales
 
 ---
 
+# Important Links
+
+🌐 Live Deployment : https://proposal-rfp-agent-356167640197.asia-southeast1.run.app/
+
+📖 Technical Article : https://medium.com/p/b84f83d91464?postPublishedType=initial
+
+📝 Blog :  URL
+
+---
+
 ## 🛠️ Tech Stack & Key Files
 
 The platform is designed with a full-stack modular architecture, optimizing data transmission and ensuring absolute security:

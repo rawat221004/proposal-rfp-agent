@@ -10,7 +10,6 @@ An intelligent sales bidding and proposal generation platform designed for sales
 
 📖 Technical Article : https://medium.com/p/b84f83d91464?postPublishedType=initial
 
-📝 Blog :  URL
 
 ---
 
